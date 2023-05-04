@@ -5,7 +5,7 @@ I am Taco.
 - 🤔looking forward a remote job
 - focus on Node.js Golang
 - experience in Strapi, Kiwi, Nestjs, Gin, 
-- Mysql, Redis, Mqtt, and Mongodb 
+- MySQL, Redis, Mqtt, and Mongodb 
 - And the IAP of google and apple.
 - 📫 How to reach me: wangyong1027480@gmail.com
 - myblog https://wangyongblog.tech/
