@@ -2,7 +2,6 @@
 I am Taco.
 - 🔭 I’m currently working on anker.
 - using golang.
-- 🤔looking forward a remote job
 - focus on Node.js Golang
 - experience in Strapi, Kiwi, Nestjs, Gin, 
 - MySQL, Redis, Mqtt, and Mongodb 
